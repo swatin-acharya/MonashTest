@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MonashApp</string>
+    <string name="content_description_for_icon_card_row">Icon for Schedule</string>
+</resources>
